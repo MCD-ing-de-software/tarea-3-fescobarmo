@@ -41,4 +41,4 @@ From the root folder of the project, run:
 pytest
 ```
 
-This will discover and execute all tests under the `tests/` directory.
+This will discover and execute all tests under the `tests/` directory
